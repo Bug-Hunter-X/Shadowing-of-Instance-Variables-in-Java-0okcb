@@ -1,0 +1,2 @@
+# Shadowing of Instance Variables in Java
+This example demonstrates a common error in Java where local variables can shadow instance variables with the same name, leading to unexpected results. The solution shows how to avoid this issue.
